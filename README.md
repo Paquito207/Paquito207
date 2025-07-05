@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Robert (Paquito)</h1>
+<h1 align="center">Hola 👋, soy Robert</h1>
 <h3 align="center">💻 Analista y Desarrollador de Software</h3>
 
 <p align="center">
