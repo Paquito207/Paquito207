@@ -1,29 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert
-==============================================================================================================================
+<h1 align="center">Hola 👋, soy Paquito (Robert)</h1>
+<h3 align="center">💻 Analista y Desarrollador de Software</h3>
 
-Analista y Desarrollador de Software
-------------------------------------
-
-Soy un programador junior con una base sólida en desarrollo web y backend
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" title="Go"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paquito207&style=plastic&color=blueviolet" alt="Profile views" />
 </p>
 
+<!-- Separador personalizado (simulado con una imagen GIF si se desea) -->
+<img src="https://raw.githubusercontent.com/Paquito207/assets/main/separator.gif" width="100%" height="4px"/>
 
-### Socials
+### 🚀 Sobre mí
 
-<p align="left"> <a href="https://www.github.com/Paquito207" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+Soy un **desarrollador junior** con una sólida base en **desarrollo web y backend**, comprometido con el **aprendizaje constante** y la mejora continua. Me destaco por mi comunicación multilingüe (español nativo, portugués intermedio), pensamiento lógico, proactividad y autonomía al resolver problemas.
 
-### Badges
+🔧 Mis principales áreas de interés:
+- Desarrollo web frontend y backend
+- APIs REST
+- Integración de bases de datos
+- Automatización y scripting
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Paquito207"><img src="https://github-readme-stats.vercel.app/api?username=Paquito207&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Paquito207's GitHub stats" /></a>
 
-<a href="http://www.github.com/Paquito207"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Paquito207&stroke=14b8a6&background=22272e&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+### 🧰 Tecnologías y herramientas
 
-<a href="https://github.com/Paquito207" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paquito207&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <!-- Lenguajes -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" title="PHP" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" title="Go" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" title="C#" />
+
+  <!-- Frameworks y herramientas -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" title="Angular" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="NodeJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" title="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" title="Sublime Text" />
+</p>
+
+---
+
+### 🌐 Redes
+
+<p align="left">
+  <a href="https://github.com/Paquito207" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<a href="https://github.com/Paquito207">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paquito207&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Paquito207">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Paquito207&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Paquito207">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paquito207&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+<!-- Separador animado con degradado horizontal -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="animated line" width="100%" height="4px">
+</p>
