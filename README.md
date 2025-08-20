@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un **desarrollador junior** con una sólida base en **desarrollo web y backend**, comprometido con el **aprendizaje constante** y la mejora continua. Con pensamiento lógico, proactividad y autonomía al resolver problemas.
+desarrollador junior** con una sólida base en **desarrollo web y backend**.
 
 <table>
   <tr>
