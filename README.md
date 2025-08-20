@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mí
 
-desarrollador junior** con una sólida base en **desarrollo web y backend**.
+desarrollador junior con una sólida base en **desarrollo web y backend**.
 
 <table>
   <tr>
